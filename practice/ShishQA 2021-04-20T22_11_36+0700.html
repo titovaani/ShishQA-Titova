@@ -1,0 +1,190 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+      xmlns:x="urn:schemas-microsoft-com:office:excel"
+      xmlns="http://www.w3.org/TR/REC-html40">
+    <head>
+        <title>ShishQA</title>
+        <style type="text/css">
+         table {
+             mso-displayed-decimal-separator:"\,";
+             mso-displayed-thousand-separator:" ";
+         }
+         body
+         {
+             margin: 0px;
+             font-size: 12px;
+             font-family: Arial, sans-serif;
+             color:black;
+         }
+
+        </style>
+        <META HTTP-EQUIV="Content-Type" Content="application/vnd.ms-excel; charset=UTF-8">
+        <!-- JRA-7598 - ensure fields (e.g. description) occupy only one cell - even fields containing newlines. -->
+        <!--
+             Vertical align all cells to the top, in order to align all issue rows of issuetable to the top,
+             since Excel does not use or save the css files it is hardcoded here.
+           -->
+        <style>
+         @page
+         {
+             mso-page-orientation:landscape;
+             margin:.25in .25in .5in .25in;
+             mso-header-margin:.5in;
+             mso-footer-margin:.25in;
+             mso-footer-data:"&R&P of &N";
+             mso-horizontal-page-align:center;
+             mso-vertical-page-align:center;
+         }
+
+         td.issuekey,
+         td.issuetype,
+         td.status {
+             mso-style-parent: "";
+             mso-number-format: \@;
+             text-align: left;
+         }
+         br
+         {
+             mso-data-placement:same-cell;
+         }
+
+         td
+         {
+             vertical-align: top;
+         }
+        </style>
+
+        <!--[if gte mso 9]><xml>
+            <x:ExcelWorkbook>
+            <x:ExcelWorksheets>
+            <x:ExcelWorksheet>
+            <x:Name>general_report</x:Name>
+            <x:WorksheetOptions>
+            <x:Print>
+            <x:ValidPrinterInfo/>
+            </x:Print>
+            </x:WorksheetOptions>
+            </x:ExcelWorksheet>
+            </x:ExcelWorksheets>
+            </x:ExcelWorkbook>
+            </xml><![endif]-->
+    </head>
+    <body>
+
+        <table border="1">
+            <tr bgcolor="#0747a6" height="30">
+                <td colspan="5">
+                    <img src="http://89.223.126.182:8080/images/jira-software.png" width="57" height="30" border="0" alt="ShishQA">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="5">
+                    <a href="http://89.223.126.182:8080/issues/?jql=project+%3D+HR+AND+assignee+in+%28currentUser%28%29%29">ShishQA</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="5">
+                    Отображение <strong>4</strong> запросов в <strong>20/апр/21 10:11 PM</strong>.
+                </td>
+            </tr>
+        </table>
+
+        
+
+
+                            <issuetable-web-component data-content="issues">
+                <table id="issuetable"  border="1" cellpadding="3" cellspacing="1" width="100%">
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Код
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Статус
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Cоздано
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Обновленo
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_10000" data-id="customfield_10000">
+                            Development
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow10106" rel="10106" data-issuekey="HR-36" class="issuerow">
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HR-36" href="http://89.223.126.182:8080/browse/HR-36">HR-36</a>
+</td>
+                                            <td class="status">
+                <span class=" jira-issue-status-lozenge aui-lozenge jira-issue-status-lozenge-blue-gray jira-issue-status-lozenge-new aui-lozenge-subtle jira-issue-status-lozenge-max-width-medium" data-tooltip="&lt;span class=&quot;jira-issue-status-tooltip-title&quot;&gt;Сделать&lt;/span&gt;">Сделать</span>    </td>
+                                            <td class="created"> 20/апр/21 9:16 AM </td>
+                                            <td class="updated"> 20/апр/21 9:18 AM </td>
+                                            <td class="customfield_10000">    <div class='dev-status-column-view-wrapper'></div>
+</td>
+                    </tr>
+
+
+                <tr id="issuerow10027" rel="10027" data-issuekey="HR-27" class="issuerow">
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HR-27" href="http://89.223.126.182:8080/browse/HR-27">HR-27</a>
+</td>
+                                            <td class="status">
+                <span class=" jira-issue-status-lozenge aui-lozenge jira-issue-status-lozenge-blue-gray jira-issue-status-lozenge-new aui-lozenge-subtle jira-issue-status-lozenge-max-width-medium" data-tooltip="&lt;span class=&quot;jira-issue-status-tooltip-title&quot;&gt;Сделать&lt;/span&gt;">Сделать</span>    </td>
+                                            <td class="created"> 19/апр/21 9:20 AM </td>
+                                            <td class="updated"> 20/апр/21 9:20 AM </td>
+                                            <td class="customfield_10000">    <div class='dev-status-column-view-wrapper'></div>
+</td>
+                    </tr>
+
+
+                <tr id="issuerow10015" rel="10015" data-issuekey="HR-16" class="issuerow">
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HR-16" href="http://89.223.126.182:8080/browse/HR-16">HR-16</a>
+</td>
+                                            <td class="status">
+                <span class=" jira-issue-status-lozenge aui-lozenge jira-issue-status-lozenge-green jira-issue-status-lozenge-done aui-lozenge-subtle jira-issue-status-lozenge-max-width-medium" data-tooltip="&lt;span class=&quot;jira-issue-status-tooltip-title&quot;&gt;Готово&lt;/span&gt;">Готово</span>    </td>
+                                            <td class="created"> 17/апр/21 4:54 PM </td>
+                                            <td class="updated"> 20/апр/21 9:16 PM </td>
+                                            <td class="customfield_10000">    <div class='dev-status-column-view-wrapper'></div>
+</td>
+                    </tr>
+
+
+                <tr id="issuerow10006" rel="10006" data-issuekey="HR-7" class="issuerow">
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HR-7" href="http://89.223.126.182:8080/browse/HR-7">HR-7</a>
+</td>
+                                            <td class="status">
+                <span class=" jira-issue-status-lozenge aui-lozenge jira-issue-status-lozenge-yellow jira-issue-status-lozenge-indeterminate aui-lozenge-subtle jira-issue-status-lozenge-max-width-medium" data-tooltip="&lt;span class=&quot;jira-issue-status-tooltip-title&quot;&gt;В работе&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;jira-issue-status-tooltip-desc&quot;&gt;В данный момент по этой проблеме ведется активная работа назначенным лицом.&lt;/span&gt;">В работе</span>    </td>
+                                            <td class="created"> 17/апр/21 1:24 PM </td>
+                                            <td class="updated"> 17/апр/21 4:25 PM </td>
+                                            <td class="customfield_10000">    <div class='dev-status-column-view-wrapper'></div>
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    </issuetable-web-component>
+    <div class="end-of-stable-message"></div>
+            <table border="1" >
+<tr>
+    <td bgcolor="#f5f5f5" colspan="5"><font size="1">
+        Полученный Tue Apr 20 18:11:36 MSK 2021 a1646@yandex.ru используя Jira 8.16.0#816000-sha1:a455b91378454416b49bbc88d03e653cb9815ed5.
+    </font></td>
+</tr>
+</table>
+
+</body>
+</html>
