@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d5f7446-2603-4abf-bc90-60fc98b45515" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Homework-1/Analyses.txt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework-1/DNS.txt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework-1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework-1/codacademy.jpeg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework-1/testegg.xlsx.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework-2/Analyses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework-2/cashes.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework-2/htmlcss1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework-2/htmlcss2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/ShishQA 2021-04-20T22_11_36+0700.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/Titova Test - TestRail.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/Titova Test - TestRailshort.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/jira.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/Пользовательская документация.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rvRl3U6yMqvgPO40EzLERktC9a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestTwo.testTets4">
+    <configuration name="TestOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oplata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOne" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOne.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oplata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOne" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOne.testSecond" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oplata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOne" />
+      <option name="METHOD_NAME" value="testSecond" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOne.testTets4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oplata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOne" />
+      <option name="METHOD_NAME" value="testTets4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTwo.testTets4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oplata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTwo" />
+      <option name="METHOD_NAME" value="testTets4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestTwo.testTets4" />
+        <item itemvalue="JUnit.TestOne.testTets4" />
+        <item itemvalue="JUnit.TestOne.test3" />
+        <item itemvalue="JUnit.TestOne" />
+        <item itemvalue="JUnit.TestOne.testSecond" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d5f7446-2603-4abf-bc90-60fc98b45515" name="Default Changelist" comment="" />
+      <created>1619854732558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619854732558</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
